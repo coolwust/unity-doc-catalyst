@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Unity Doc Catalyst",
   "version": "1.0.0",
-  "description": "Improves Unity documentation load speed",
+  "description": "Improves Unity documentation load speed (either online or offline)",
   "icons": {
     "16": "images/icon_16x16.png",
     "48": "images/icon_48x48.png",

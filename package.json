@@ -1,7 +1,7 @@
 {
   "name": "unity-doc-catalyst",
   "version": "1.0.0",
-  "description": "A chrome extension to improve Unity documentation load speed",
+  "description": "A chrome extension to improve Unity documentation load speed (either online or offline)",
   "author": "Xianghan Wang",
   "license": "ISC",
   "dependencies": {
