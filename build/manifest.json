@@ -1,0 +1,28 @@
+{
+  "manifest_version": 2,
+  "name": "Unity Doc Catalyst",
+  "version": "1.0.0",
+  "description": "Improves Unity documentation load speed",
+  "icons": {
+    "16": "images/icon_16x16.png",
+    "48": "images/icon_48x48.png",
+    "128": "images/icon_128x128.png"
+  },
+  "author": "Xianghan Wang",
+  "page_action": {
+    "default_icon": {
+      "16": "images/page_action/icon_16x16.png"
+    },
+    "default_title": "Unity Doc Catalyst"
+  },
+  "background": {
+    "scripts": ["js/background.js"],
+    "persistent": true
+  },
+  "permissions": [
+    "<all_urls>",
+    "tabs",
+    "webRequest",
+    "webRequestBlocking"
+  ]
+}

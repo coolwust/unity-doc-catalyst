@@ -1,0 +1,14 @@
+{
+  "name": "unity-doc-catalyst",
+  "version": "1.0.0",
+  "description": "A chrome extension to improve Unity documentation load speed",
+  "author": "Xianghan Wang",
+  "license": "ISC",
+  "dependencies": {
+    "@types/chrome": "0.0.47"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coolwust/unity-doc-catalyst.git"
+  }
+}

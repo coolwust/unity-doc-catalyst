@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "lib" : ["ES6", "DOM"],
+    "module": "none",
+    "outDir": "build/js",
+    "rootDir": "ts"
+  },
+  "include": ["ts"]
+}
